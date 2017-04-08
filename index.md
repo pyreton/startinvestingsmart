@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+When learning how to start investing, people can feel overwhelmed with questions. How much do I money do I need? Should I invest in the stock market? Should I pay an advisor? Is investing hard work? What happens if the market crashes?
 
-You can use the [editor on GitHub](https://github.com/pyreton/startinvestingsmart/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These questions around how to start investing can get jumbled into a tangled mess that stops people before they even start.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To make sense of all this and start making progress on your investment journey, it can be helpful to think of Investing like mountain climbing. Investors and mountain climbers are more similar than you might think. They both:
 
-### Markdown
+- set goals and work hard to achieve them.
+- know that preparation is key to success.
+- give themselves the best chance to succeed on their journey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+StartInvestingSmart.com is built to help you learn how to start investing and reach your investment goals by using simple, tested strategies that don’t require expensive advisors or countless hours of research.
+This guide will help you:
 
-```markdown
-Syntax highlighted code block
+- Build an emergency fund to protect yourself on your climb
+- Escape any pits of debt you may have fallen into, and
+- Chart a simple and steady path up the mountain to your investment goals
 
-# Header 1
-## Header 2
-### Header 3
+Before heading to basecamp and starting a single step on this journey, you want to make sure you are prepared. That means:
 
-- Bulleted
-- List
+- You think like an investor and not like a consumer (very important)
+- You have the financial fitness and energy to make the climb (extra money left over every month ready to be invested)
+- You are prepared for emergencies (you have an emergency fund)
+- You’ve escaped any debt that may be trapping you (you have no high interest debt)
 
-1. Numbered
-2. List
+Once you are prepared, and ready to climb from basecamp, you will want to make the most of your investment effort. That means:
 
-**Bold** and _Italic_ and `Code` text
+- Choosing the right mountains (setting specific goals. for retirement, house, etc)
+- Understanding the different paths up the mountain and their trade-offs (risk vs reward)
+- Not carrying extra weight that will only slow your ascent (avoiding high fees)
+- Sticking to the path to give the best chance for progress (no stock picking or market timing)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pyreton/startinvestingsmart/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ready to start investing? First things first…
