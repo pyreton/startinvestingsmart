@@ -1,5 +1,7 @@
 # Are you financially fit?
 
+![Are you financially fit](/assets/img/Are-you-financially-fit-825x510.png)
+
 If you want to climb the mountain of investment and build wealth, you need to be financially fit.
 
 - If you spend more than you earn each month: You are accumulating debt.
