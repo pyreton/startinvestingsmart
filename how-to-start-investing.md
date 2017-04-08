@@ -35,3 +35,4 @@ Once you are prepared, and ready to climb from basecamp, you will want to make t
 - Sticking to the path to give the best chance for progress (no stock picking or market timing)
 
 Ready to start investing? First things first…
+> Next Step: [Do you think like an investor?](/do-you-think-like-an-investor)
