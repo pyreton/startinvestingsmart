@@ -1,8 +1,5 @@
----
-layout: page
-title:  "How to start investing"
-categories: basics
----
+
+# How to start investing
 
 ![Mountains](/assets/img/HOWTOSTARTINVESTING-MOUNTAIN-FOREST.png)
 
