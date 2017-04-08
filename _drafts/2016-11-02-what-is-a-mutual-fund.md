@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "What is a mutual fund?"
+categories: basics
+---
+
 # What is a mutual fund?
 
 A mutual fund is a security (something you can buy or sell) that is usually a bundle of stocks. That way you can just buy one mutual fund and effectively own many different stocks.
