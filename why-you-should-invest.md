@@ -1,4 +1,7 @@
 # Why You Should Invest
+
+![Beach](/assets/img/beach-with-logs.jpg)
+
 [46% of U.S. residents aren’t investing today](http://www.gallup.com/poll/147206/stock-market-investments-lowest-1999.aspx). For whatever reason, they don’t think they should invest in the stock market. Maybe they think that investing requires a lot of money (it doesn’t) or that it requires paying financial advisor to help you invest ([it doesn’t](/myth-investing-is-hard-work)).
 
 But if you can’t escape the feeling that you’re not going anywhere financially, you might start wondering if you should invest. Investing, once you really boil it down, is simply putting your money to work returning more money back to you. It’s all about increasing your financial net worth, and meeting long-term financial goals.
