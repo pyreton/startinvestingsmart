@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "How does the economy work?"
+categories: basics
+---
+
 # How does the economy work?
 
 To be a smart investor, it helps to know how the economy works, so you can where it has been, where it is now, and where it will probably be.
