@@ -8,15 +8,15 @@ But what happens if you stop comparison shopping and only go to one store? What 
 
 One day, I ran out of laundry detergent. Out of habit, I turned to Amazon.com to buy a replacement bottle of Seventh Generation Laundry detergent.
 
-TODO: Add image
+![Amazon offered detergent for $23](/assets/img/laundry-detergent-on-amazon.png)
 
 When I pulled it up, I was surprised at the cost: $23 seemed high. But, it was 100oz which sounds like a lot. Still, it was high enough for me to wonder…
 
-TODO: Add image
+![Google showed other offers](/assets/img/laundry-detergent-on-google.png)
 
 Those prices must be for smaller bottles, right? No way Amazon’s prices are almost 100% higher, right?
 
-TODO: Add image
+![Target offered detergent for $11.69](/assets/img/laundry-detergent-on-target.png)
 
 Actually, they are. Amazon charges $23.00 for the same bottle of detergent that Target sells for $11.69. That’s almost double, and I almost paid it. Luckily, I did a 2 second Google search to comparison shop.
 
