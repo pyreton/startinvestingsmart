@@ -8,10 +8,10 @@ We believe in the following principles:
 - The simpler the investing strategy, the more likely it is to succeed
 - Different stages of the investment journey require different techniques
 
-Ready to start?
+## Ready to start?
 
 > [Get Started](/how-to-start-investing)
 
-About
+## About
 
 Start Investing Smart is written as a hobby by a working professional who thinks that more people would invest if they understood that it wasn’t nearly as complex as financial services companies trying to sell their products would have them believe. The views represented are theirs alone, and to not reflect or represent the views of their employer. By using this site, you agree to the [terms of use](/terms-of-use) and acknolwedge you have read the [disclaimer](/disclaimer)
