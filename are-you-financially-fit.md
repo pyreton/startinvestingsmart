@@ -15,5 +15,5 @@ Source: http://www.moolanomy.com/1576/earn-more-than-you-spend-is-the-secret-to-
 Once you are financially fit, you can:
 
 - [Build an emergency fund to protect yourself in a financial emergency](/how-to-build-an-emergency-fund)
-- [Get out of any debts you have acquired](/how-to-get-out-of-debt)
+- [Get out of any debts you have acquired](/how-to-pay-off-high-interest-debt)
 - [Build wealth](/coming-soon)
