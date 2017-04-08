@@ -1,3 +1,11 @@
+---
+layout: page
+title:  "How to start investing"
+categories: basics
+---
+
+![Mountains](/assets/img/HOWTOSTARTINVESTING-MOUNTAIN-FOREST.png)
+
 When learning how to start investing, people can feel overwhelmed with questions. How much do I money do I need? Should I invest in the stock market? Should I pay an advisor? Is investing hard work? What happens if the market crashes?
 
 These questions around how to start investing can get jumbled into a tangled mess that stops people before they even start.
