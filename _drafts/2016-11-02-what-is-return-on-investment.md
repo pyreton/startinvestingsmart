@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "What is return on investment?"
+categories: basics
+---
+
 # What is return on investment?
 
 “Return on investment” (abbreviated “ROI”) is the amount of money generated and *returned* to an investor. It may sound dry, but it is actually the “magic” that let’s you make your money work for you, rather than the other way around.
