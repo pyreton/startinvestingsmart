@@ -10,4 +10,4 @@ Do you have any high-interest debt?
 
 > [Yes, I have high interest debt and need to make a plan to pay it off](/how-to-pay-off-high-interest-debt)
 
-> [No, I don’t have any high interest debt – I’m read to invest!](/coming-soon)
+> [No, I don’t have any high interest debt – I’m ready to invest!](/coming-soon)
